@@ -5,9 +5,9 @@
 
 <!-- - 🔭 I’m currently working on [Save-it](https://github.com/Aniruddha-Shriwant/save-it) -->
 
-- 🌱 I’m currently learning **React, Nodejs**
+- 🌱 I’m currently learning **Angular**
 
-- 👯 I’m looking to collaborate on **React Projects**
+<!-- - 👯 I’m looking to collaborate on **React Projects** -->
 
 <!-- - 🤝 I’m looking for help with [Save-it](https://github.com/Aniruddha-Shriwant/save-it) -->
 
